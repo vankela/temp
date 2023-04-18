@@ -1,0 +1,29 @@
+->written simple language
+Algorithm step by step procedure to finish a task
+1.step form
+2.Psedu code
+3.Flow chart
+variable: a named storage container that store values
+Datatype: the type of data that has been stored
+1.int: interger type
+example :x=9
+2.float decimals
+example:x=3.54
+3.string:series of characters
+example:x="Sai"
+4.Boolean :True or false
+
+#include<stdio.h>
+void main(){
+int a,b;
+printf("Enter the values");
+scanf("%d%d",&a,&b);
+printf("addition: %d",a+b);
+}
+
+
+python:
+  print("Enter the values")
+  x=int(input("enter the values"))
+  y=int(input("enter the values"))
+  print(x+y)
